@@ -78,9 +78,9 @@ This schema ensures normalized relationships between orders, pizzas, and pizza c
 
 ---
 
-## 📸 Sample Output  
-![Top 3 Pizzas](images/top_pizzas.png)  
-*Figure: Top 3 pizzas in each Category by revenue contribution*
+## 📝 Query Showcase (Example)
+
+**Problem**: Top 3 pizzas in each Category by revenue contribution
 
 #### Query
 ```sql 
@@ -99,6 +99,9 @@ SELECT rp.category, rp.name, rp.total_revenue
 FROM ranked_pizzas rp
 WHERE rp.rank_within_category <= 3;
 ```
+
+#### Output :
+![Top 3 Pizzas](images/top_pizzas.png)  
 
 ---
 
