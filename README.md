@@ -5,6 +5,12 @@ Using **PostgreSQL**, I designed the database schema, imported raw CSV files, an
 
 The analysis highlights not just technical SQL skills but also the ability to extract **actionable business insights** — the kind of analysis companies use to understand sales performance, customer behavior, and revenue drivers.  
 
+![SQL](https://img.shields.io/badge/Language-SQL-blue)
+![Database](https://img.shields.io/badge/Database-PostgreSQL-green)
+![Data Analysis](https://img.shields.io/badge/Focus-Data_Analysis-orange)
+![ETL](https://img.shields.io/badge/Process-ETL-yellow)
+![Queries](https://img.shields.io/badge/Queries-Advanced_SQL-purple)
+![Tool](https://img.shields.io/badge/Tool-dbdiagram.io-lightgrey)
 
 ---
 
