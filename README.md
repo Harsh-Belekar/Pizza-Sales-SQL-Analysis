@@ -118,3 +118,7 @@ WHERE rp.rank_within_category <= 3;
 📬 [LinkedIn](https://www.linkedin.com/in/harshbelekar) | 🔗[GitHub](https://github.com/Harsh-Belekar)
 
 📧 [harshbelekar74@gmail.com](mailto:harshbelekar74@gmail.com)
+
+---
+
+⭐ *If you found this project helpful, feel free to star the repo and connect with me for collaboration!*
